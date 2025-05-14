@@ -1,2 +1,3 @@
-_pychache_
+_pycache_
 .venv
+.env
